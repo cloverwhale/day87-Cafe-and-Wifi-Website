@@ -64,7 +64,7 @@ class Cafe(db.Model):
     updated_by = relationship("User", back_populates="cafes")
 
 
-db.create_all()
+# db.create_all()
 
 
 # User session ------------------------------------------------------------
