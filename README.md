@@ -1,4 +1,4 @@
-# py06_wifiCafe
+# Cafe and Wifi Website
 
 
 This web application project is a homework for *100 Days of Code: The Complete Python Pro Bootcamp for 2022.*
